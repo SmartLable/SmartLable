@@ -1,0 +1,6 @@
+F:\PJ\打开文件\类操作\bin\Debug\类操作.exe.config
+F:\PJ\打开文件\类操作\bin\Debug\类操作.exe
+F:\PJ\打开文件\类操作\bin\Debug\类操作.pdb
+F:\PJ\打开文件\类操作\obj\Debug\类操作.exe
+F:\PJ\打开文件\类操作\obj\Debug\类操作.pdb
+F:\PJ\打开文件\类操作\obj\Debug\类操作.csprojResolveAssemblyReference.cache
