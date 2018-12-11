@@ -1,0 +1,8 @@
+F:\PJ\打开文件\Dricet类\bin\Debug\Dricet类.exe.config
+F:\PJ\打开文件\Dricet类\bin\Debug\Dricet类.exe
+F:\PJ\打开文件\Dricet类\bin\Debug\Dricet类.pdb
+F:\PJ\打开文件\Dricet类\obj\Debug\Dricet类.csprojResolveAssemblyReference.cache
+F:\PJ\打开文件\Dricet类\obj\Debug\Dricet类.Properties.Resources.resources
+F:\PJ\打开文件\Dricet类\obj\Debug\Dricet类.csproj.GenerateResource.Cache
+F:\PJ\打开文件\Dricet类\obj\Debug\Dricet类.exe
+F:\PJ\打开文件\Dricet类\obj\Debug\Dricet类.pdb

@@ -1,0 +1,9 @@
+F:\PJ\打开文件\打开文件\bin\Debug\打开文件.exe.config
+F:\PJ\打开文件\打开文件\bin\Debug\打开文件.exe
+F:\PJ\打开文件\打开文件\bin\Debug\打开文件.pdb
+F:\PJ\打开文件\打开文件\obj\Debug\打开文件.Properties.Resources.resources
+F:\PJ\打开文件\打开文件\obj\Debug\打开文件.csproj.GenerateResource.Cache
+F:\PJ\打开文件\打开文件\obj\Debug\打开文件.exe
+F:\PJ\打开文件\打开文件\obj\Debug\打开文件.pdb
+F:\PJ\打开文件\打开文件\obj\Debug\打开文件.Form1.resources
+F:\PJ\打开文件\打开文件\obj\Debug\打开文件.csprojResolveAssemblyReference.cache

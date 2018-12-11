@@ -1,0 +1,5 @@
+F:\PJ\打开文件\进程类\bin\Debug\进程类.exe.config
+F:\PJ\打开文件\进程类\bin\Debug\进程类.exe
+F:\PJ\打开文件\进程类\bin\Debug\进程类.pdb
+F:\PJ\打开文件\进程类\obj\Debug\进程类.exe
+F:\PJ\打开文件\进程类\obj\Debug\进程类.pdb
