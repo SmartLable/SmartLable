@@ -1,8 +1,0 @@
-F:\PJ\打开文件\保存文件对话框\bin\Debug\保存文件对话框.exe.config
-F:\PJ\打开文件\保存文件对话框\bin\Debug\保存文件对话框.exe
-F:\PJ\打开文件\保存文件对话框\bin\Debug\保存文件对话框.pdb
-F:\PJ\打开文件\保存文件对话框\obj\Debug\保存文件对话框.Form1.resources
-F:\PJ\打开文件\保存文件对话框\obj\Debug\保存文件对话框.Properties.Resources.resources
-F:\PJ\打开文件\保存文件对话框\obj\Debug\保存文件对话框.csproj.GenerateResource.Cache
-F:\PJ\打开文件\保存文件对话框\obj\Debug\保存文件对话框.exe
-F:\PJ\打开文件\保存文件对话框\obj\Debug\保存文件对话框.pdb
