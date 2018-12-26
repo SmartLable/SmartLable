@@ -43,18 +43,102 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Javascript_Dom", "Javascrip
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "23412"
+		SlnRelativePath = "Javascript_Dom\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "跑马灯(1)", "跑马灯\", "{27EDC2EE-82A0-49C0-BBA9-151556815082}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_45538"
+		Debug.AspNetCompiler.PhysicalPath = "跑马灯\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_45538\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_45538"
+		Release.AspNetCompiler.PhysicalPath = "跑马灯\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_45538\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "45538"
+		SlnRelativePath = "跑马灯\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "加法计算器", "加法计算器\", "{02B0C322-84D0-43CC-B0F5-84768E482130}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_33146"
+		Debug.AspNetCompiler.PhysicalPath = "加法计算器\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_33146\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_33146"
+		Release.AspNetCompiler.PhysicalPath = "加法计算器\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_33146\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "33146"
+		SlnRelativePath = "加法计算器\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "点谁谁哭", "点谁谁哭\", "{892836E8-CE97-42AA-8E2F-D9193BBA78C8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_35860"
+		Debug.AspNetCompiler.PhysicalPath = "点谁谁哭\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_35860\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_35860"
+		Release.AspNetCompiler.PhysicalPath = "点谁谁哭\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_35860\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "35860"
+		SlnRelativePath = "点谁谁哭\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{226E06B4-F636-4AE3-9263-189B302A1E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{226E06B4-F636-4AE3-9263-189B302A1E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226E06B4-F636-4AE3-9263-189B302A1E2D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{226E06B4-F636-4AE3-9263-189B302A1E2D}.Release|Any CPU.Build.0 = Debug|Any CPU
 		{218906E6-3E81-4636-96B4-C0C07B900CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{218906E6-3E81-4636-96B4-C0C07B900CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218906E6-3E81-4636-96B4-C0C07B900CD6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{218906E6-3E81-4636-96B4-C0C07B900CD6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{27EDC2EE-82A0-49C0-BBA9-151556815082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EDC2EE-82A0-49C0-BBA9-151556815082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27EDC2EE-82A0-49C0-BBA9-151556815082}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{27EDC2EE-82A0-49C0-BBA9-151556815082}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{02B0C322-84D0-43CC-B0F5-84768E482130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B0C322-84D0-43CC-B0F5-84768E482130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B0C322-84D0-43CC-B0F5-84768E482130}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B0C322-84D0-43CC-B0F5-84768E482130}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{892836E8-CE97-42AA-8E2F-D9193BBA78C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892836E8-CE97-42AA-8E2F-D9193BBA78C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892836E8-CE97-42AA-8E2F-D9193BBA78C8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{892836E8-CE97-42AA-8E2F-D9193BBA78C8}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
