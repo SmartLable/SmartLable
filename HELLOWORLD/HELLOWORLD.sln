@@ -113,6 +113,28 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "点谁谁哭", "点谁谁�
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "动态添加节点", "动态添加节点\", "{E4AD6134-40AD-46FF-B6C6-C1B5ECCBA785}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_43839"
+		Debug.AspNetCompiler.PhysicalPath = "动态添加节点\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_43839\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_43839"
+		Release.AspNetCompiler.PhysicalPath = "动态添加节点\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_43839\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "43839"
+		SlnRelativePath = "动态添加节点\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -139,6 +161,10 @@ Global
 		{892836E8-CE97-42AA-8E2F-D9193BBA78C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{892836E8-CE97-42AA-8E2F-D9193BBA78C8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{892836E8-CE97-42AA-8E2F-D9193BBA78C8}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{E4AD6134-40AD-46FF-B6C6-C1B5ECCBA785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AD6134-40AD-46FF-B6C6-C1B5ECCBA785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AD6134-40AD-46FF-B6C6-C1B5ECCBA785}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AD6134-40AD-46FF-B6C6-C1B5ECCBA785}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
